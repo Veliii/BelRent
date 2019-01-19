@@ -1,0 +1,37 @@
+.z-linija{
+	background-color:#bce623;
+	height:5px;
+	
+	
+	
+}
+.jumbotron{
+	background-color:#e8eeea;
+	background:url(img/pozadina.jpg) no-repeat;
+	background-size:cover;	
+}
+#logo{
+	margin-left:482.5px;
+	margin-top:85px;
+}
+.navbar-default{
+	background:none;
+	border:none;
+	margin-top:70px;
+	margin-left:397.25px;
+	
+	
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+	color:#BCE623;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background:none;
+	color:#BCE623;
+}
+.navbar-default .navbar-nav>li>a{
+	color:#746e5d;
+}
+.jumbotron .container{
+	background-color:#fff;
+}
